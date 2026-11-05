@@ -1,5 +1,5 @@
 # laaakeri
 
-Published portfolio: https://laaakeri.github.io/
+The public portfolio is now hosted on Cloudflare at https://laaakeri.com/.
 
-This repository contains the built website.
+GitHub Pages only redirects legacy links. Do not publish website builds here.
